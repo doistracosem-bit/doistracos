@@ -228,11 +228,11 @@ const EMAIL_CONTATO = "doistracosem@gmail.com";
       icone: '<rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/>',
       cta: "Quero melhorar minha presença digital",
       mensal: true,
-      nota: "Os planos incluem design, não gestão completa das redes sociais.",
+      nota: "Todos os planos incluem criação de conteúdo. A publicação pela Dois Traços é exclusiva do Premium.",
       pacotes: [
         { nome: "Essencial", preco: 490, itens: ["8 posts estáticos mensais"] },
         { nome: "Estratégico", preco: 790, itens: ["12 posts estáticos", "4 stories estáticos"] },
-        { nome: "Premium", preco: 1190, itens: ["16 posts estáticos", "8 stories estáticos"] },
+        { nome: "Premium", preco: 1190, itens: ["16 posts estáticos", "8 stories estáticos", "2 Reels em motion design por semana", "Publicação pela Dois Traços"] },
       ],
     },
     lancamentos: {
